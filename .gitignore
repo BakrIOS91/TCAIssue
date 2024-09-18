@@ -1,10 +1,6 @@
 TCAIssue/TCAIssue.xcodeproj/project.pbxproj
-TCAIssue/TCAIssue.xcodeproj/project.xcworkspace/contents.xcworkspacedata
-TCAIssue/TCAIssue.xcodeproj/xcshareddata/xcschemes/TCAIssue.xcscheme
-TCAIssue/TCAIssue.xcodeproj/xcuserdata/bakrmohamed.xcuserdatad/xcschemes/xcschememanagement.plist
-TCAIssue/TCAIssue.xcworkspace/.tuist-generated
-TCAIssue/TCAIssue.xcworkspace/contents.xcworkspacedata
-TCAIssue/TCAIssue.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
-TCAIssue/TCAIssue.xcworkspace/xcshareddata/xcschemes/TCAIssue-Workspace.xcscheme
-TCAIssue/TCAIssue.xcworkspace/xcuserdata/bakrmohamed.xcuserdatad/UserInterfaceState.xcuserstate
-TCAIssue/TCAIssue.xcworkspace/xcuserdata/bakrmohamed.xcuserdatad/xcschemes/xcschememanagement.plist
+TCAIssue/TCAIssue.xcodeproj/project.xcworkspace/**
+TCAIssue/TCAIssue.xcodeproj/xcshareddata/**
+TCAIssue/TCAIssue.xcworkspace/**
+TCAIssue/TCAIssue.xcworkspace/xcshareddata/**
+TCAIssue/TCAIssue.xcodeproj/xcuserdata/bakrmohamed.xcuserdatad/xcschemes
