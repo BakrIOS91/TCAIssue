@@ -11,7 +11,14 @@ import SwiftUI
 struct TCAIssueApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(
+                store: .init(
+                    initialState: ContentFeature.State()
+                ){
+                    ContentFeature()
+                        ._printChanges()
+                }
+            )
         }
     }
 }
