@@ -11,7 +11,13 @@ import SwiftUI
 struct TCAIssueApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AppMasterView(
+                store: .init(
+                    initialState: AppMasterFeature.State()
+                ){
+                    AppMasterFeature()
+                }
+            )
         }
     }
 }
